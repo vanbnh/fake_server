@@ -1,0 +1,30 @@
+{
+  "ads": {
+    "data": [
+        {
+          "spent": "345.60",
+          "clicks": 134,
+          "orders": 17,
+          "revenue": "568.50"
+        },
+        {
+            "spent": "389.60",
+            "clicks": 96,
+            "orders": 15,
+            "revenue": "435.50"
+        },
+      {
+        "spent": "735.60",
+        "clicks": 293,
+        "orders": 35,
+        "revenue": "892.50"
+      },
+      {
+        "spent": "1,032.80",
+        "clicks": 345,
+        "orders": 57,
+        "revenue": "1,503.60"
+      }
+    ]
+  }
+}
